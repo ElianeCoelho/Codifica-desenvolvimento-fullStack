@@ -9,4 +9,4 @@ function verificaParOuImpar(numero) {
     }
 }
 
-console.log(verificaParOuImpar(3));
+verificaParOuImpar(3);
