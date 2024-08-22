@@ -10,3 +10,9 @@ function verificaParOuImpar(numero) {
 }
 
 verificaParOuImpar(3);
+
+//modelo 2 com operador ternário
+function verificaParOuImpar2(numero) {
+  console.log((numero % 2 === 0) ? (numero + ' é par.') : (numero + ' é impar')); 
+}
+verificaParOuImpar2(4);
