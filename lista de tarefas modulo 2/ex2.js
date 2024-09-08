@@ -13,7 +13,7 @@ const livro = {
   let propriedadeExiste = false;
   
   for (const propriedade in livro) {
-    if (livro.hasOwnProperty(propriedade)) { // Verifica se a propriedade é do próprio objeto e não herdada
+    if (livro.hasOwnProperty(propriedade)) { 
       if (propriedade === 'editora') {
         propriedadeExiste = true;
         break; 
@@ -22,7 +22,7 @@ const livro = {
   }
   
   if (!propriedadeExiste) {
-    livro.editora = 'Companhia das Letras'; // Adiciona a propriedade 'editora' ao objeto
+    livro.editora = 'Companhia das Letras'; 
     console.log('Propriedade "editora" não encontrada. Adicionada ao objeto.');
   }
   

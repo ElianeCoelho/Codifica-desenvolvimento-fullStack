@@ -1,16 +1,25 @@
 # Codifica Desenvolvimento FullStack
 
-Bem-vindo à trilha FullStack do projeto **Codifica**. Este repositório serve para armazenar o conteúdo das aulas e atividades relacionadas ao desenvolvimento FullStack. Atualmente, ele contém scripts JavaScript para o módulo 1, que demonstram diversos conceitos e técnicas de programação.
+Bem-vindo à trilha FullStack do projeto **Codifica**. Este repositório é dedicado ao armazenamento de conteúdo relacionado ao desenvolvimento FullStack. Ele inclui scripts JavaScript, atividades avaliativas e materiais de aula, organizados por módulos.
+
+## Estrutura do Repositório
+
+O repositório está dividido em diferentes seções para facilitar o acesso ao conteúdo:
+
+- **Módulo 1 e 2:** Scripts JavaScript.
+- **Lista de Tarefas 1:** Exercícios avaliativos módulo 1.
+- **Lista de Tarefas 2:** Exercícios avaliativos módulo 2.
+- **Aulas:** Materiais e recursos das aulas acompanhadas.
 
 ## Requisitos
 
 Antes de começar, certifique-se de que você tem o ambiente configurado com:
 
-- **[Node.js](https://nodejs.org/)**: O runtime necessário para executar os scripts JavaScript.
+- **[Node.js](https://nodejs.org/):** O runtime necessário para executar os scripts JavaScript.
 
 ## Instalação
 
-Para executar os scripts do módulo 1, você precisará da biblioteca `prompt-sync` para ler entradas do usuário.
+Para executar os scripts e atividades, siga os passos abaixo:
 
 ### Configuração do Ambiente
 
@@ -19,5 +28,5 @@ Para executar os scripts do módulo 1, você precisará da biblioteca `prompt-sy
    Clone este repositório para o seu ambiente local usando o comando:
 
    ```bash
-   git clone https://github.com/ElianeCoelho/Codifica---desenvolvimento-fullStack/tree/main/lista%20de%20tarefas%20modulo%201
-   cd seurepositorio
+   git clone https://github.com/ElianeCoelho/Codifica---desenvolvimento-fullStack.git
+   cd Codifica---desenvolvimento-fullStack
